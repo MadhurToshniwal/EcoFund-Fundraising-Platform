@@ -31,7 +31,7 @@ Layer	Tools Used
 
 🧠 Theme: Tech for Environmental Good
 
-👥 Team: 2–4 developers/designers (customize as per your team)
+👥 Team: 2–4 developers/designers
 
 🏆 Focus: Real-world impact through quick prototyping
 
