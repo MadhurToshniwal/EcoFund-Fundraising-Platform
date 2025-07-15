@@ -2,6 +2,9 @@
 
 A website designed in a 48-hour hackathon to promote environmental sustainability by supporting eco-conscious causes through fundraising tools and decentralized transactions. The platform empowers users to contribute to verified green initiatives, track their impact, and explore solutions for reducing their carbon footprints using the power of technology and transparency.
 
+🔗 **Live Demo**: [Click here](https://madhurtoshniwal.github.io/webhack/)
+
+
 🌍 Project Goal
 To create a simple, interactive, and secure platform that:
 
