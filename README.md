@@ -40,3 +40,10 @@ Open to suggestions and improvements! Feel free to fork the repo or raise issues
 
 🙌 Acknowledgments
 Inspired by global climate challenges and motivated by the hackathon theme to make technology work for a greener planet.
+
+## 👨‍💻 Author
+
+**Madhur Sunilkumar Toshniwal**  
+🎓 B.Tech, Vellore Institute of Technology  
+📧 [Mail:](mailto:madhurtoshniwal03@gmail.com) • 🔗 [LinkedIn](https://linkedin.com/in/madhur-toshniwal
+) • 🐙 [GitHub](https://github.com/MadhurToshniwal)
